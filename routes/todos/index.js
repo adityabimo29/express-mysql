@@ -8,10 +8,7 @@ router.get('/',getAll);
 //router.post('/add',upload.single('avatar'),postData);
 
 router.post('/add',postData);
-router.put('/edit/:email',updateByEmail);
-router.get('/:email',getByEmail);
-router.delete('/delete/:email',deleteByEmail);
-router.post('/login',login);
+
 
 // Upload files > 1
 // router.post('/',upload.fields([
