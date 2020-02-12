@@ -30,22 +30,7 @@ module.exports = {
             }
           });
     },
-    login:async (req,res)=>{
 
-    },
-    getByEmail:async (req,res)=>{
-
-
-    },
-    updateByEmail: async (req,res)=>{
-
-
-
-    },
-    deleteByEmail: async(req,res)=>{
-
-
-    },
     // postData:(req,res) => {
 
     //     try {
